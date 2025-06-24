@@ -12,6 +12,7 @@ In this lab you will:
 - Describe the tuning parameters found in scikit-learn's implementation of k-means clustering 
 - Use an elbow plot with various metrics to determine the optimal number of clusters 
 
+# Check the index.ipynb file for my working
 
 ## The K-means Algorithm 
 
